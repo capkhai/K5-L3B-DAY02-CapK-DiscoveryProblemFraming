@@ -4,38 +4,34 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: CapK
+- Candidate problem nhóm chọn (1 câu): Phụ huynh có nhu cầu đổi buổi học gia sư nhưng phải đợi các lượt kiểm tra, đề xuất và xác nhận lịch, đôi khi kéo dài vài giờ đến hôm sau.
+- Quyết định cuối (Go / Not Yet / No-Go): Not Yet
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Cao Phạm Tân Khải | 2A202603883 | Nhóm trưởng | https://github.com/capkhai |
 
-Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
-Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối thời gian, ghi chép, người phản biện chính, phụ trách kiểm chứng (phỏng vấn/survey), phụ trách research, vẽ quy trình, viết Problem Statement.
 
 ## Phân công theo checkpoint
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ nhóm | Cao Phạm Tân Khải | Cao Phạm Tân Khải | Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Cao Phạm Tân Khải | Cao Phạm Tân Khải | Assumption map, snapshot hoặc survey |
+| CP4 — Research | Cao Phạm Tân Khải| Cao Phạm Tân Khải| Bảng research có link |
+| CP5 — Quy trình trước/sau |Cao Phạm Tân Khải |Cao Phạm Tân Khải | Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 | Cao Phạm Tân Khải| Cao Phạm Tân Khải| Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Cao Phạm Tân Khải|Cao Phạm Tân Khải | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định | Cao Phạm Tân Khải| Cao Phạm Tân Khải| 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
+
 
 ### HoVaTen-MSSV
 
